@@ -1,0 +1,24 @@
+﻿data/
+
+# R
+rsconnect/
+.Rhistory
+.Rproj.user/
+*.Rproj
+*.RData
+
+# Google Drive link files (skip)
+*.gdoc
+*.gsheet
+*.gslides
+*.gdraw
+*.gform
+*.gtable
+
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+
+# SO
+.DS_Store
+Thumbs.db
